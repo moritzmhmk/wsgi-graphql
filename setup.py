@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 setup(
     name='wsgi_graphql',
     py_modules=['wsgi_graphql'],
